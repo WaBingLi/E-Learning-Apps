@@ -2,4 +2,15 @@
     <string name="app_name">SplashScreen</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="dekripsi">Dekripsi</string>
+    <string name="judul">Judul</string>
+    <string name="halo1">halo1</string>
+    <string name="deskripsi1">dekripsi1</string>
+    <string name="halo2">halo2</string>
+    <string name="deskripsi2">dekripsi2</string>
+    <string name="halo3">deksripsi3</string>
+    <string name="deskripsi3">deskripsi3</string>
+    <string name="lewati">Lewati</string>
+    <string name="sudah_siap_yuk_mulai">Sudah siap? Yuk mulai</string>
 </resources>
